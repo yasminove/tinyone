@@ -1,4 +1,38 @@
 * {
+
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
+}
+
+.whole{
+  align: center;
+}
+
+.logo{
+  width: 147px;
+  position: relative;
+  top: 30px;
+  left: 109px;
+}
+
+header {
+  background-color: #fcdb00;
+  top: -542px;
+  left: 737px;
+}
+
+nav a {
+
+  color: #000000;
+  display: inline-block;
+  text-align: right;
+  padding: 1em;
+  text-decoration: none;
+  position: relative;
+  left: 679px;
+  top: -25px;
+  font-size: 21px;
+  font-family: serif;
+   font-weight: 400
 }
