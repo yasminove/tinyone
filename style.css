@@ -48,3 +48,11 @@ nav a {
   top: 46px;
   left: 16px;
 }
+
+section h1 {
+  position: relative;
+  left: 109px;
+  top: 32px;
+  font-family: serif;
+  font-size: 24px;
+}
