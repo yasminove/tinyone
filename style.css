@@ -43,3 +43,8 @@ nav a {
   width: 197vh;
   height: 87vh;
 }
+.content{
+  position: relative;
+  top: 46px;
+  left: 16px;
+}
