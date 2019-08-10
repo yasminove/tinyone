@@ -36,3 +36,10 @@ nav a {
   font-family: serif;
    font-weight: 400
 }
+
+
+.banner {
+  background-color: #fcdb00;
+  width: 197vh;
+  height: 87vh;
+}
