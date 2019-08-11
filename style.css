@@ -289,3 +289,29 @@ h4 {
   top: 12px;
   width: 289px;
 }
+
+.input {
+  position: relative;
+  left: 430px;
+  top: 40px;
+  width: 400px;
+  height: 32px;
+  border-radius: 4px;
+}
+
+.submit {
+  position: relative;
+  left: 439px;
+  top: 41px;
+  width: 60px;
+  height: 32px;
+  border-radius: 4px;
+  background-color: #fcdb00;
+}
+
+.icons {
+  position: relative;
+  top: 36px;
+  left: 61px;
+  padding: 1em;
+}
