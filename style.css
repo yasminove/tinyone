@@ -121,3 +121,34 @@ h5 {
   left: -9px;
   top: 49px;
 }
+
+.heading-3 {
+  position: relative;
+  left: 28px;
+  top: 49px;
+}
+
+.fa-p {
+  position: relative;
+  top: 62px;
+  left: 76px;
+  width: 247px;
+  font-family: serif;
+  font-size: 15px;
+  font-weight: 100;
+  position: relative;
+  top: 70px;
+  left: 125px;
+}
+
+img {
+  position: relative;
+  top: -154px;
+  left: 678px;
+}
+
+.responsive {
+  position: relative;
+  top: 45px;
+  left: -85px;
+}
