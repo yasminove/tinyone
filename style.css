@@ -227,3 +227,23 @@ img {
   top: 70px;
   left: 125px;
 }
+.code {
+  position: relative;
+  left: -80px;
+  top: 86px;
+}
+
+.lower-right-2 {
+  float: right;
+  width: 33.33%;
+  height: 280px;
+  position: relative;
+  left: -81px;
+  top: -48px;
+}
+
+.heading-6 {
+  position: relative;
+  left: 28px;
+  top: 49px;
+}
