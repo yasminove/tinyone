@@ -315,3 +315,23 @@ h4 {
   left: 61px;
   padding: 1em;
 }
+.fb-icon {
+  position: relative;
+  top: 51px;
+  left: 500px;
+  width: 31px;
+}
+
+.twitter-icon {
+  position: relative;
+  top: 51px;
+  width: 35px;
+  left: 507px;
+}
+
+.google-icon {
+  position: relative;
+  top: 51px;
+  width: 31px;
+  left: 514px;
+}
