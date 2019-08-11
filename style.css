@@ -121,3 +121,28 @@ div.icons {
   font-size: 24px;
   height: 95vh;
 }
+
+.wrapper {
+  text-align: center;
+}
+
+.features {
+  display: inline-block;
+  position: relative;
+  left: 5px;
+  top: 13px;
+  width: 349px;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+
+.upper-left-1 {
+  float: left;
+  width: 33.33%;
+  height: 280px;
+  padding: 50px;
+  box-sizing: border-box;
+  position: relative;
+  top: 21px;
+}
