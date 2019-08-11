@@ -65,6 +65,81 @@ h5 {
     font-size: medium;
     font-weight: 500;
 }
+
+p {
+  position: relative;
+  top: 62px;
+  left: 109px;
+  width: 339px;
+  font-family: serif;
+  }
+
+
+div.icons {
+  position: relative;
+  top: 15px;
+
+}
+
+.apple {
+  width: 42px;
+  height: 35px;
+  position: relative;
+  left: 115px;
+  top: 163px;
+}
+
+.android {
+  width: 42px;
+  height: 35px;
+  position: relative;
+  left: 115px;
+  top: 163px;
+}
+
+.windows {
+  width: 42px;
+  height: 35px;
+  position: relative;
+  left: 115px;
+  top: 163px;
+}
+
+.mid-area {
+  font-family: serif;
+  text-align: center;
+  position: relative;
+  top: 41px;
+  font-weight: 600;
+  font-size: 24px;
+  height: 95vh;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.features {
+  display: inline-block;
+  position: relative;
+  left: 5px;
+  top: 13px;
+  width: 349px;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+
+.upper-left-1 {
+  float: left;
+  width: 33.33%;
+  height: 280px;
+  padding: 50px;
+  box-sizing: border-box;
+  position: relative;
+  top: 21px;
+}
+
 .container {
   padding-left: 30px;
   padding-right: 125px;
@@ -174,6 +249,7 @@ img {
   position: relative;
   left: 38px;
 }
+
 .free-download {
   position: relative;
   left: -9px;
@@ -227,6 +303,7 @@ img {
   top: 70px;
   left: 125px;
 }
+
 .code {
   position: relative;
   left: -80px;
@@ -266,6 +343,7 @@ img {
   top: 89px;
   left: -89px;
 }
+
 footer {
   background: black;
   height: 90vh;
@@ -315,6 +393,7 @@ h4 {
   left: 61px;
   padding: 1em;
 }
+
 .fb-icon {
   position: relative;
   top: 51px;
@@ -335,6 +414,7 @@ h4 {
   width: 31px;
   left: 514px;
 }
+
 .pinterest-icon {
   position: relative;
   top: 51px;
@@ -358,6 +438,7 @@ address {
   top: 19px;
   left: 405px;
 }
+
 
 .list-2{
   display: block;
