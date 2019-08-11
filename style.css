@@ -358,3 +358,39 @@ address {
   top: 19px;
   left: 405px;
 }
+
+.list-2{
+  display: block;
+    color: white;
+    position: relative;
+    top: -40px;
+    left: 511px;
+  }
+
+
+.list-3 {
+    display: block;
+    color: white;
+    position: relative;
+    top: -112px;
+    left: 590px;
+  }
+
+.list-4 {
+    display: block;
+    color: white;
+    position: relative;
+    top: -165px;
+    left: 691px;
+}
+.closer{
+  position: relative;
+  left: 218px;
+  top: -21px;
+  padding: 1em;
+}
+
+.footer-content {
+  position: relative;
+  top: 57px;
+}
