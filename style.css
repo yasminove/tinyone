@@ -152,3 +152,25 @@ img {
   top: 45px;
   left: -85px;
 }
+
+.layered {
+  position: relative;
+  top: 99px;
+  left: -113px;
+}
+
+.fa {
+  position: relative;
+  left: -78px;
+  top: 89px;
+}
+
+.lower-left-2 {
+  float: left;
+  width: 33.33%;
+  height: 280px;
+  padding: 50px;
+  box-sizing: border-box;
+  position: relative;
+  left: 38px;
+}
