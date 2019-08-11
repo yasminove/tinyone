@@ -65,84 +65,26 @@ h5 {
     font-size: medium;
     font-weight: 500;
 }
+.container {
+  padding-left: 30px;
+  padding-right: 125px;
+}
 
-p {
+.respon {
   position: relative;
   top: 62px;
   left: 109px;
-  width: 339px;
+  width: 144px;
   font-family: serif;
-  }
-
-p {
-  position: relative;
-  top: 62px;
-  left: 109px;
-  width: 339px;
-  font-family: serif;
-  }
-
-div.icons {
-  position: relative;
-  top: 15px;
-
-}
-
-.apple {
-  width: 42px;
-  height: 35px;
-  position: relative;
-  left: 115px;
-  top: 163px;
-}
-
-.android {
-  width: 42px;
-  height: 35px;
-  position: relative;
-  left: 115px;
-  top: 163px;
-}
-
-.windows {
-  width: 42px;
-  height: 35px;
-  position: relative;
-  left: 115px;
-  top: 163px;
-}
-
-.mid-area {
-  font-family: serif;
-  text-align: center;
-  position: relative;
-  top: 41px;
-  font-weight: 600;
-  font-size: 24px;
-  height: 95vh;
-}
-
-.wrapper {
-  text-align: center;
-}
-
-.features {
-  display: inline-block;
-  position: relative;
-  left: 5px;
-  top: 13px;
-  width: 349px;
-  font-weight: 100;
   font-size: 15px;
+  font-weight: 100;
+  position: relative;
+  top: 8px;
+  left: 81px;
 }
 
-
-.upper-left-1 {
-  float: left;
-  width: 33.33%;
-  height: 280px;
-  padding: 50px;
-  box-sizing: border-box;
+.heading-1 {
   position: relative;
-  top: 21px;
+  left: 6px;
+  top: -7px;
 }
