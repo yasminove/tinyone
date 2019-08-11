@@ -335,3 +335,26 @@ h4 {
   width: 31px;
   left: 514px;
 }
+.pinterest-icon {
+  position: relative;
+  top: 51px;
+  width: 32px;
+  left: 520px;
+}
+
+address {
+  display: block;
+  font-style: italic;
+  color: white;
+  position: relative;
+  top: 97px;
+  left: 247px;
+}
+
+.list {
+  display: block;
+  color: white;
+  position: relative;
+  top: 19px;
+  left: 405px;
+}
