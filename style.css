@@ -266,3 +266,26 @@ img {
   top: 89px;
   left: -89px;
 }
+footer {
+  background: black;
+  height: 90vh;
+}
+
+h4 {
+  color: #fcdb00;
+  font-size: 23px;
+  font-family: serif;
+  position: relative;
+  left: 526px;
+}
+
+.contact {
+  font-family: serif;
+  font-size: 15px;
+  font-weight: 100;
+  color: #ffffff;
+  position: relative;
+  left: 500px;
+  top: 12px;
+  width: 289px;
+}
