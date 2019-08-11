@@ -88,3 +88,36 @@ h5 {
   left: 6px;
   top: -7px;
 }
+
+.upper-center-1 {
+  float: left;
+  width: 33.33%;
+  height: 280px;
+  position: relative;
+  left: 35px;
+}
+
+.upper-right-1 {
+  float: right;
+  width: 33.33%;
+  height: 280px;
+}
+
+.layered-p {
+  position: relative;
+  top: 62px;
+  left: 109px;
+  width: 186px;
+  font-family: serif;
+  font-size: 15px;
+  font-weight: 100;
+  position: relative;
+  top: 67px;
+  left: 99px;
+}
+
+.heading-2 {
+  position: relative;
+  left: -9px;
+  top: 49px;
+}
