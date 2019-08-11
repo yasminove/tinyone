@@ -198,3 +198,32 @@ img {
   top: 1px;
   left: -106px;
 }
+
+.lower-center-2 {
+  float: left;
+  width: 33.33%;
+  height: 280px;
+  /* background-color: red; */
+  position: relative;
+  top: -22px;
+  left: -49px;
+}
+
+.heading-5 {
+  position: relative;
+  left: 28px;
+  top: 49px;
+}
+
+.code-p {
+  position: relative;
+  top: 62px;
+  left: 76px;
+  width: 247px;
+  font-family: serif;
+  font-size: 15px;
+  font-weight: 100;
+  position: relative;
+  top: 70px;
+  left: 125px;
+}
