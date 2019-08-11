@@ -65,3 +65,11 @@ h5 {
     font-size: medium;
     font-weight: 500;
 }
+
+p {
+  position: relative;
+  top: 62px;
+  left: 109px;
+  width: 339px;
+  font-family: serif;
+  }
