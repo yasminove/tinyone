@@ -65,3 +65,26 @@ h5 {
     font-size: medium;
     font-weight: 500;
 }
+.container {
+  padding-left: 30px;
+  padding-right: 125px;
+}
+
+.respon {
+  position: relative;
+  top: 62px;
+  left: 109px;
+  width: 144px;
+  font-family: serif;
+  font-size: 15px;
+  font-weight: 100;
+  position: relative;
+  top: 8px;
+  left: 81px;
+}
+
+.heading-1 {
+  position: relative;
+  left: 6px;
+  top: -7px;
+}
