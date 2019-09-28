@@ -7,6 +7,7 @@
 
 .whole{
   align: center;
+  padding-bottom: 20px;
 }
 
 .logo{
@@ -83,26 +84,26 @@ div.icons {
 
 .apple {
   width: 42px;
-  height: 35px;
+  height: 33px;
   position: relative;
   left: 115px;
-  top: 163px;
+  top: 156px;
 }
 
 .android {
-  width: 42px;
-  height: 35px;
-  position: relative;
-  left: 115px;
-  top: 163px;
+    width: 42px;
+    height: 35px;
+    position: relative;
+    left: 115px;
+    top: 159px;
 }
 
 .windows {
-  width: 42px;
-  height: 35px;
-  position: relative;
-  left: 115px;
-  top: 163px;
+    width: 42px;
+    height: 35px;
+    position: relative;
+    left: 115px;
+    top: 162px;
 }
 
 .mid-area {
@@ -218,8 +219,9 @@ div.icons {
 
 img {
   position: relative;
-  top: -154px;
-  left: 678px;
+  top: -175px;
+  left: 672px;
+  margin-top: 20px;
 }
 
 .responsive {
